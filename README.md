@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tommy Adeliyi aka Tommy The Wrangler</h1>
-<h3 align="center">A self-motivated data scientist with a strong work ethic. I am passionate about product and service quality!</h3>
+<h3 align="center">A self-motivated data scientist with a strong work ethic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeliyio&label=Profile%20views&color=0e75b6&style=flat" alt="adeliyio" /> </p>
 
