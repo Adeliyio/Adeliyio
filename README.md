@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/oadatascientist" target="blank"><img src="https://img.shields.io/twitter/follow/oadatascientist?logo=twitter&style=for-the-badge" alt="oadatascientist" /></a> </p>
 
-- 🌱 I am continually enhancing my proficiency in the k **AWS tool stack**
+- 🌱 I am continually enhancing my proficiency in the **AWS tool stack**
 
 - 👨‍💻 All of my projects are available at [[https://adeliyio.github.io/](https://adeliyio.github.io/](https://github.com/Adeliyio)
 
