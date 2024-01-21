@@ -7,7 +7,7 @@
 
 - 🌱 I am continually enhancing my proficiency in the **AWS tool stack**
 
-- 👨‍💻 All of my projects are available at [[https://adeliyio.github.io/](https://adeliyio.github.io/](https://github.com/Adeliyio)
+- 👨‍💻 All of my projects are available at [https://github.com/Adeliyio)
 
 - 📝 I  write articles on [https://medium.com/@tommyadeliyi](https://medium.com/@tommyadeliyi)
 
