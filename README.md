@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/oadatascientist" target="blank"><img src="https://img.shields.io/twitter/follow/oadatascientist?logo=twitter&style=for-the-badge" alt="oadatascientist" /></a> </p>
 
-- 🌱 I’m currently learning **Cloudera**
+- 🌱 I am continually enhancing my proficiency in the k **AWS tool stack**
 
-- 👨‍💻 All of my projects are available at [https://adeliyio.github.io/](https://adeliyio.github.io/)
+- 👨‍💻 All of my projects are available at [[https://adeliyio.github.io/](https://adeliyio.github.io/](https://github.com/Adeliyio)
 
 - 📝 I  write articles on [https://medium.com/@tommyadeliyi](https://medium.com/@tommyadeliyi)
 
-- 📫 You can contact me on **adeliyio@yahoo.com**
+- 📫 You can contact me on **oadatascientist@gmail.com**
 
 - 📄 I am open to collaborating on disruptive projects focused on generative AI.
 
