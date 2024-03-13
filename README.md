@@ -53,7 +53,7 @@
 ### Analytics⚙️
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adeliyio&theme=react)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adeliyio&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adeliyio&theme=react)
+
 
 
 
