@@ -1,7 +1,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B+I'm Tommy%2C+a+Data+Scientist%E2%9A%A1%E2%9A%A1;Thanks+for+visiting.+%F0%9F%94%AE;Data+driven+insights.+" alt="Typing SVG" /></a>
 
-### MLops | MLFlow | CI/CD Pipelines | Github Actions
+##### MLops | MLFlow | CI/CD Pipelines | Github Actions
 
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
