@@ -33,7 +33,9 @@
 
 
 
-#### Most Recent Blogs posts
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Read+Recent+ Blog+Posts%E2%9A%A1%E2%9A%A1;Thanks+for+Reading.+%F0%9F%94%AE;Data+is+the+new+oil.+" alt="Typing SVG" /></a>
 
 <!-- MEDIUM:START -->
 - [The ABC of Self-Attention Mechanism: Simplifying AI’s Game-Changer...](https://medium.com/@tommyadeliyi/the-abc-of-self-attention-mechanism-simplifying-ais-game-changer-e2346a8a1f79------2)
