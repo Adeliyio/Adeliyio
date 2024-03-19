@@ -33,14 +33,14 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Read+Recent+ Blog+Posts%E2%9A%A1%E2%9A%A1;Thanks+for+Reading.+%F0%9F%94%AE;Data+is+the+new+oil.+" alt="Typing SVG" /></a>
 <!-- MEDIUM:START -->
-- [Continuous Integration for Data Science: Automating Model Building Pipelines...](https://medium.com/@tommyadeliyi/continuous-integration-for-data-science-automating-model-building-pipelines-333702fecbe6------2)
-- [Version Control for Machine Learning Models: Best Practices and Tools…](https://medium.com/@tommyadeliyi/version-control-for-machine-learning-models-best-practices-and-tools-b4069c7caebb------2)
-- [The ABC of Self-Attention Mechanism: Simplifying AI’s Game-Changer...](https://medium.com/@tommyadeliyi/the-abc-of-self-attention-mechanism-simplifying-ais-game-changer-e2346a8a1f79------2)
-- [Automated Model Testing and Monitoring: The Bedrock of Startup MLOps…](https://medium.com/@tommyadeliyi/automated-model-testing-and-monitoring-the-bedrock-of-startup-mlops-1061c0b78e2e------2)
-- [Taming the Twin Challenges of Data and Model Drift in Startup MLOps](https://medium.com/@tommyadeliyi/taming-the-twin-challenges-of-data-and-model-drift-in-startup-mlops-2bb552f22e1f------2)
-- [Leveraging Data-Driven Strategies for Enhanced Customer Personalization](https://medium.com/@tommyadeliyi/leveraging-data-driven-strategies-for-enhanced-customer-personalisation-1f0aa1b4b82b------2)
-- [Unlocking Textual Insights: How Startups Can Leverage NLP for Customer Engagement](https://medium.com/@tommyadeliyi/unlocking-textual-insights-how-startups-can-leverage-nlp-for-customer-engagement-7f19c76eee6f------2)
-- [Building Scalable Machine Learning Pipelines in Startup Environments](https://medium.com/@tommyadeliyi/building-scalable-machine-learning-pipelines-in-startup-environments-30a3a115bd60------2)
+- [Continuous Integration for Data Science: Automating Model Building Pipelines...](https://medium.com/@tommyadeliyi/continuous-integration-for-data-science-automating-model-building-pipelines-333702fecbe6)
+- [Version Control for Machine Learning Models: Best Practices and Tools…](https://medium.com/@tommyadeliyi/version-control-for-machine-learning-models-best-practices-and-tools-b4069c7caebb)
+- [The ABC of Self-Attention Mechanism: Simplifying AI’s Game-Changer...](https://medium.com/@tommyadeliyi/the-abc-of-self-attention-mechanism-simplifying-ais-game-changer-e2346a8a1f79)
+- [Automated Model Testing and Monitoring: The Bedrock of Startup MLOps…](https://medium.com/@tommyadeliyi/automated-model-testing-and-monitoring-the-bedrock-of-startup-mlops-1061c0b78e2e)
+- [Taming the Twin Challenges of Data and Model Drift in Startup MLOps](https://medium.com/@tommyadeliyi/taming-the-twin-challenges-of-data-and-model-drift-in-startup-mlops-2bb552f22e1f)
+- [Leveraging Data-Driven Strategies for Enhanced Customer Personalization](https://medium.com/@tommyadeliyi/leveraging-data-driven-strategies-for-enhanced-customer-personalisation-1f0aa1b4b82b)
+- [Unlocking Textual Insights: How Startups Can Leverage NLP for Customer Engagement](https://medium.com/@tommyadeliyi/unlocking-textual-insights-how-startups-can-leverage-nlp-for-customer-engagement-7f19c76eee6f)
+- [Building Scalable Machine Learning Pipelines in Startup Environments](https://medium.com/@tommyadeliyi/building-scalable-machine-learning-pipelines-in-startup-environments-30a3a115bd60)
 <!-- MEDIUM:END -->
 
 
