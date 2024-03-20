@@ -48,11 +48,11 @@
 ##### A few projects you may like to see:
 
 <!-- MEDIUM:START -->
-- [MLflow-DVC-Kidney-Disease-Classification...](https://github.com/Adeliyio/MLflow-DVC-Kidney-Disease-Classification)
+- [ml-ops-dagshub-aws-modula...](https://github.com/Adeliyio/ml-ops-dagshub-aws-modular)
 - [MLops-Huggingface-FastAPI-AWS…](https://github.com/Adeliyio/MLOps-HuggingFace-GitHubActions-FastAPI-AWS)
+- - [MLflow-DVC-Kidney-Disease-Classification...](https://github.com/Adeliyio/MLflow-DVC-Kidney-Disease-Classification)
 - [MLops-E2E-Yolov8-tennis-object-detection-AWSdeployment...](https://github.com/Adeliyio/MLops-E2E-Yolov8-tennis-object-detection-AWSdeployment)
 - [Coccidiosis-Chicken-Disease-Classification…](https://github.com/Adeliyio/Coccidiosis-Chicken-Disease-Classification)
-- [ml-ops-dagshub-aws-modula...](https://github.com/Adeliyio/ml-ops-dagshub-aws-modular)
 - [Telco Churn Prediction...](https://github.com/Adeliyio/Telco_Customer_Churn_Prediction)
 - [Heart Failure Prediction…](https://github.com/Adeliyio/Heart_Failure_Prediction)
 - [Breast Cancer Prediction...](https://github.com/Adeliyio/Predicting_Breast_Cancer)
