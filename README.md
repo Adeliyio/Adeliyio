@@ -53,6 +53,8 @@
 - [MLflow-DVC-Kidney-Disease-Classification...](https://github.com/Adeliyio/MLflow-DVC-Kidney-Disease-Classification)
 - [MLops-E2E-Yolov8-tennis-object-detection-AWSdeployment...](https://github.com/Adeliyio/MLops-E2E-Yolov8-tennis-object-detection-AWSdeployment)
 - [Coccidiosis-Chicken-Disease-Classification…](https://github.com/Adeliyio/Coccidiosis-Chicken-Disease-Classification)
+- [Customer Segmentation with RFM and Kmeans...](https://github.com/Adeliyio/customer-segmentation-rfm-kmeans)
+- [A/B Testing on an E-Commerce Website…](https://github.com/Adeliyio/A-B-Testing-on-Different-Versions-of-a-Website)
 - [Telco Churn Prediction...](https://github.com/Adeliyio/Telco_Customer_Churn_Prediction)
 - [Heart Failure Prediction…](https://github.com/Adeliyio/Heart_Failure_Prediction)
 - [Breast Cancer Prediction...](https://github.com/Adeliyio/Predicting_Breast_Cancer)
