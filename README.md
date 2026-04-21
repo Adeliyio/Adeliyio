@@ -1,3 +1,6 @@
+# Tommy Adeliyi  
+### Senior AI Engineer · LLM Systems · Evaluation & Reliability
+
 
 I build **production-grade AI systems that organizations can trust**.
 
@@ -141,13 +144,14 @@ AWS · FastAPI · Streamlit
 
 ---
 
+## 🤝 Let’s Connect
+
 If you're building AI systems that need to be:
+- reliable in production  
+- measurable and testable  
+- safe under real-world conditions  
 
-* reliable in production
-* measurable and testable
-* safe under real-world conditions
+I’m always open to conversations around high-impact AI systems.
 
-Let’s talk.
-
-✉️ [adeliyio@yahoo.com](mailto:adeliyio@yahoo.com)
+✉️ adeliyio@yahoo.com  
 🔗 https://linkedin.com/in/adeliyitommy
