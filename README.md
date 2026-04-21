@@ -112,23 +112,19 @@ AWS · FastAPI · Streamlit
 
 ---
 
-<details>
-<summary>🏭 <b>Where I've applied AI across business functions</b></summary>
+## 🏭 Where I've applied AI across business functions
 
-| Domain                    | Representative systems                                        |
-| ------------------------- | ------------------------------------------------------------- |
-| **HR & Talent**           | Resume screening · Candidate ranking · Attrition prediction   |
-| **Finance**               | Fraud detection · Cash flow forecasting · Invoice automation  |
-| **Sales & Marketing**     | Lead scoring · Churn prediction · Customer segmentation       |
-| **Customer Support**      | Support copilots · Ticket classification · Escalation systems |
-| **Data & Analytics**      | NL-to-SQL · Forecasting · Insight generation                  |
-| **Legal & Compliance**    | Contract analysis · Policy enforcement                        |
-| **Operations**            | Workflow automation · Document processing                     |
-| **Engineering / Product** | Code review · Bug triage · Log analysis                       |
-| **Executive / Strategy**  | KPI dashboards · Scenario planning · decision support         |
-
-</details>
-
+| Domain | Representative systems |
+|---|---|
+| HR & Talent | Resume screening · Candidate ranking · Attrition prediction |
+| Finance | Fraud detection · Cash flow forecasting · Invoice automation |
+| Sales & Marketing | Lead scoring · Churn prediction · Customer segmentation |
+| Customer Support | Support copilots · Ticket classification · Escalation systems |
+| Data & Analytics | NL-to-SQL · Forecasting · Insight generation |
+| Legal & Compliance | Contract analysis · Policy enforcement |
+| Operations | Workflow automation · Document processing |
+| Engineering / Product | Code review · Bug triage · Log analysis |
+| Executive / Strategy | KPI dashboards · Scenario planning · decision support |
 ---
 
 ## ✍️ Writing
