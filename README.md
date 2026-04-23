@@ -148,6 +148,3 @@ If you're building AI systems that need to be:
 - safe under real-world conditions  
 
 I’m always open to conversations around high-impact AI systems.
-
-✉️ adeliyio@yahoo.com  
-🔗 https://linkedin.com/in/adeliyitommy
