@@ -1,5 +1,5 @@
 # Tommy Adeliyi  
-### Senior AI Engineer · LLM Systems · Evaluation & Reliability
+### AI Engineer · LLM Systems · Evaluation & Reliability
 
 
 I build **production-grade AI systems that organizations can trust**.
